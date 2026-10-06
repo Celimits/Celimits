@@ -1,25 +1,20 @@
-CELIM
-────────────────────────────────
+<div align="center">
+
+# CELIM
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+progress.;I+build+things%2C+break+things%2C;learn+from+them+and+build+again." />
+
+</div>
+
+---
+
+### `> whoami`
 
 Full Stack Developer in progress.
 
-I build things, break things,
+I build things, break things,  
 learn from them and build again.
 
-        JavaScript • HTML • CSS
-        Php • Python • Node.js
-
-────────────────────────────────
-PROJECTS
-
-01 / Projetos Full Stack
-02 / Projeto Integrador
-03 / SENAC
-
-────────────────────────────────
-CURRENTLY LEARNING
-
-JavaScript
-Backend
-Databases
-APIs
+```text
+JavaScript • HTML • CSS
+PHP • Python • Node.js
