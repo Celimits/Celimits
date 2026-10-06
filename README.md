@@ -2,7 +2,7 @@
 
 # CELIM
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer.;Estudante+Senac+Uberlândia%2C+Front-+end%2C;Back+end+,+Database+and+APIs." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+progress.;I+build+things%2C+break+things%2C;learn+from+them+and+build+again." />
 
 </div>
 
