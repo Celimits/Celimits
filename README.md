@@ -7,7 +7,7 @@ I build things, break things,
 learn from them and build again.
 
         JavaScript • HTML • CSS
-        Git • GitHub • Node.js
+        Php • Python • Node.js
 
 ────────────────────────────────
 PROJECTS
