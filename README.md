@@ -1,23 +1,12 @@
 <div align="center">
-
 # CELIM
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+in+progress.;I+build+things%2C+break+things%2C;learn+from+them+and+build+again." />
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack+em+progresso.;Eu+construo+coisas%2C+quebro+coisas%2C;aprendo+com+elas+e+construo+novamente." />
 </div>
-
 ---
-
 ### `> whoami`
-
 Full Stack Developer.
-
-Eu construo coisas, quebro coisas,
-
+Eu construo coisas, quebro coisas,   
 aprendo com elas e construo novamente.
-
 ```text
-
 JavaScript • HTML • CSS
-
 PHP • Python • Node.js
