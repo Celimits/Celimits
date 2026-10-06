@@ -10,10 +10,10 @@
 
 ### `> whoami`
 
-Full Stack Developer in progress.
+Full Stack Developer.
 
-I build things, break things,  
-learn from them and build again.
+Eu construo coisas, quebro coisas,   
+aprendo com elas e construo novamente.
 
 ```text
 JavaScript • HTML • CSS
