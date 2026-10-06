@@ -12,14 +12,6 @@
 
 Full Stack Developer.
 
-Eu construo coisas, quebro coisas,  
-aprendo com elas e construo novamente.
-
-<div align="center">
-  <img src="https://giphy.com" width="300" alt="Miranha Dançando">
-  <h3>Dê as boas-vindas ao meu repositório!</h3>
-</div>
-
 ---
 
 ### Conhecimentos
